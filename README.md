@@ -69,19 +69,28 @@ The Connector UI provides a comprehensive workflow with four distinct screens:
 -   **Create Exchange**: Interactive creation workflow
 -   **Exchange Management**: Browse and manage existing exchanges
 
-![Exchange Creation Interface](images/home-screen-tooltip-notifications-create-exchange.png)
+<div style="display: flex; gap: 10px;">
+  <img src="images/home-screen-getting-started.png" alt="Home Getting Started View" width="400" height="300" />
+  <img src="images/integrated-create-exchange-view.png" alt="Create Exchange View" width="400" height="300" />
+</div>
 
-### Integrated 3D Preview
+### Exchange Details Extended Panel
+
+The Exchange panel provides comprehensive information about the exchange, including metadata and associated data, while supporting all key actions for managing and interacting with exchanges.
+
+<img src="images/expanded-exchange-details-panel.png" alt="Exchange Details Panel" width="800" height="600" />
+
+### Unified 3D Load Preview
 
 View and inspect 3D models directly within the Connector UI using the APS Viewer, without leaving the application interface.
 
-![3D Model Preview](images/integrated-exchange-3d-preview.png)
+<img src="images/integrated-unified-3d-load-view.png" alt="3D Model Preview" width="800" height="600" />
 
 ### Search and Selection Tools
 
 Familiar search and selection interface that mirrors the user experience from Autodesk's hero applications like Revit, providing intuitive navigation and filtering capabilities.
 
-![Search and Selection Interface](images/integrated-exchange-search-selection-tools.png)
+<img src="images/integrated-exchange-search-selection-view.png" alt="Search and Selection Interface" width="800" height="600" />
 
 ## Prerequisites
 
